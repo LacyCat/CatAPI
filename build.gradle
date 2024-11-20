@@ -60,5 +60,4 @@ processResources {
 
 tasks.jar {
     archiveFileName = 'CatAPI.0.0.0v.jar'
-    destinationDirectory = file('D:\\outputPlug')
 }
