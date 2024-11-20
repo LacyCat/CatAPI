@@ -1,0 +1,4 @@
+name: CatAPI
+version: '1.0-SNAPSHOT'
+main: org.LacyCat.catAPI.CatAPI
+api-version: '1.21'
